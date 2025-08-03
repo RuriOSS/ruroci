@@ -1,2 +1,1 @@
-# ruroci
-(I mean if we can) An OCI runtime shim for ruri
+Nothing here, just an experiment, if we succeed. the code will be merged into rurima.
